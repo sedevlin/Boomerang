@@ -1,0 +1,9 @@
+Package: Boomerang
+Type: Package
+Title: Recursive Reclassification
+Version: 1.0
+Date: 2015-12-08
+Author: Sean Devlin 
+Maintainer: Sean Devlin <devlins@mskcc.org>
+Description: More about what it does (maybe more than one line)
+License: GPL-2
